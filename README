@@ -1,0 +1,6 @@
+Basic Finch Interactions
+
+See http://www.finchrobot.com/software/java for basic instructions.
+
+The Finch Java software is in FinchSoftware and the IntelliJ IDEA project is setup to use finch.jar and jnaerator-0.9.5.jar from there.
+

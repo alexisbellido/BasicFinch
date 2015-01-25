@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="finch">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FinchSoftware/SourceFiles/finch.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
